@@ -1,3 +1,5 @@
+install:
+	python setup.py install
 crawl:
 	scrapy crawl wordlist
 startmongo:

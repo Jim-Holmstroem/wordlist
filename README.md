@@ -1,7 +1,7 @@
 Instructions
 ================
 ```shell
-make install
+sudo make install
 make startmongo
 make crawl
 ```
